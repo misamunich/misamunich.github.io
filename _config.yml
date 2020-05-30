@@ -19,10 +19,10 @@ avatar: https://avatars.githubusercontent.com/misamunich
 footer-links:
   dribbble:
   email:
-  facebook: https://www.facebook.com/groups/MunichISA/
+  facebook: groups/MunichISA/
   flickr:
   github: misamunich
-  instagram:
+  instagram: munich_isa
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
@@ -80,7 +80,6 @@ gems:
 theme: minima
 # Exclude these files from your production _site
 exclude:
-  - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
