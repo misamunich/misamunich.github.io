@@ -18,14 +18,14 @@ avatar: https://avatars.githubusercontent.com/misamunich
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: munichisa.students@gmail.com
   facebook: groups/MunichISA/
   flickr:
   github: misamunich
   instagram: munich_isa
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: true # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
