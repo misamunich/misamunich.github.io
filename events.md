@@ -5,4 +5,3 @@ permalink: /events/
 ---
 
 
-
