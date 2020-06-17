@@ -27,7 +27,7 @@
 .post-area {
   text-align: left;
   padding: 40px;
-  width: 90%;
+  width: 100%;
   min-height: 150px;
   background-color: white;
   border-bottom: 1px dotted #ddd;
@@ -35,8 +35,11 @@
 
 .post-area img{
 
-height: 480px;
-width: 480px ;
+  display: block;
+  max-width:230px;
+  max-height:95px;
+  width: auto;
+  height: auto;
 
 }
 
