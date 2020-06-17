@@ -33,15 +33,6 @@
   border-bottom: 1px dotted #ddd;
 }
 
-.post-area img{
-
-  display: block;
-  max-width:230px;
-  max-height:95px;
-  width: auto;
-  height: auto;
-
-}
 
 .post-area a:link, .post-area a:visited {
   font-size: 30px;
