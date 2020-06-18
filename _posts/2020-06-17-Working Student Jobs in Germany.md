@@ -5,10 +5,6 @@ author: "Nivethitha Muthusamy"
 meta: "Germany"
 ---
 
-<figure align="center">
-<img src="/img/blog_img/de_jobs0.jpg" width="780" height="480" alt="sine_wave">
-<figcaption align="center" style="font-size:15px" ><em> Photo by <a href="https://unsplash.com/@firmbee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">William Iven</a> on Unsplash</em></figcaption>
-</figure>
 It is very common in Germany, like any other country to do a part time job while you are enrolled in a full-time master’s degree. What is different here is that, the job usually is relevant to the course contents. You are not expected to work in a restaurant, unless if that is what you want to do here. No job is any lesser, but you are doing a master’s degree in Science for a reason, remember?
 
 ## So how does one look for a job?
