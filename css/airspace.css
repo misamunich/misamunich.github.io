@@ -472,11 +472,14 @@ font header .navbar-default .navbar-nav li a:hover {
 #portfolio-work .block .portfolio-contant ul li {
   float: left;
   width: 32.22%;
+
   overflow: hidden;
   margin: 6px;
   position: relative;
   
 }
+
+
 #portfolio-work .block .portfolio-contant ul li:hover .overly {
   opacity: 1;
 }
@@ -507,7 +510,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #portfolio-work .block .portfolio-contant ul img {
   width: 100%;
-  height: auto; 
+  height: 300px; 
 }
 #portfolio-work .block .portfolio-contant .overly {
   position: absolute;
