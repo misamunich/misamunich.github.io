@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MISA Länderabend 2020"
-author: [Tushar Rai](https://www.linkedin.com/in/tushar-rai-38867788/)
+author: "[Tushar Rai](https://www.linkedin.com/in/tushar-rai-38867788/)"
 meta: "Germany"
 ---
 
