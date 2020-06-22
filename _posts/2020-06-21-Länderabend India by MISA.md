@@ -25,8 +25,11 @@ The event was a huge success, more than 200 people were served, and everyone lik
 **Menu** 
 
 **Vegetarian Main Course** - Dum Aloo (Prepared by Parul, Harshita, Tushar, Shubankar)
+
 **Non Vegetarian Main Course** - Butter Chicken Masala (Prepared by Abhinay, Arpit, Sid)
+
 **Side dish** - Jeera Rice (Prepared by Tushar, Ganesh, Nandan)
+
 **Sweet Dish** - Coconut Barfi (Prepared by Arpita, Mahesh Bhat, Prasanth)
 
 MISA is committed to promotion of such events and practices. In the future, we hope to be part of more such events.
