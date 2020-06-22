@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MISA Länderabend 2020"
-author: "[Tushar Rai](https://www.linkedin.com/in/tushar-rai-38867788/)"
+author: "Tushar Rai"
 meta: "Germany"
 ---
 
@@ -31,4 +31,4 @@ The event was a huge success, more than 200 people were served, and everyone lik
 
 MISA is committed to promotion of such events and practices. In the future, we hope to be part of more such events.
 
-_This article is published by [Tushar Rai](https://www.linkedin.com/in/tushar-rai-38867788/)_
+*This article is published by [Tushar Rai](https://www.linkedin.com/in/tushar-rai-38867788/)
