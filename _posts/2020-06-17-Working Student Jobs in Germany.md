@@ -3,6 +3,7 @@ layout: post
 title: "Working Student Jobs in Germany: How & Where to find them?"
 author: "Nivethitha Muthusamy"
 meta: "Germany"
+Linkd: "https://www.linkedin.com/in/nivethithamuthusamy"
 ---
 
 It is very common in Germany, like any other country to do a part time job while you are enrolled in a full-time master’s degree. What is different here is that, the job usually is relevant to the course contents. You are not expected to work in a restaurant, unless if that is what you want to do here. No job is any lesser, but you are doing a master’s degree in Science for a reason, remember?

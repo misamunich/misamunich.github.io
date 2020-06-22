@@ -3,6 +3,7 @@ layout: post
 title: "MISA Länderabend 2020"
 author: "Tushar Rai"
 meta: "Germany"
+Linkd: "https://www.linkedin.com/in/tushar-rai-38867788/"
 ---
 
 Food has always been more than sustenance for us humans. Food is an emotion which we share with each other. Food satisfies our soul. Even 300,000 years before, when we were far far away from all the complexities and technicalities of life in today’s time, people gathered around to eat together, as was confirmed by evidence found in Quesem Cave near Tel Aviv. All the major events in a normal human life are celebrated through food, all around the world. You cut a cake on your birthday, organize a feast when you get married and in some cultures, your family organizes a spectacular feast when you die.In other words, food connects us all, beyond race, beyond nationality, beyond even species.
@@ -33,5 +34,3 @@ The event was a huge success, more than 200 people were served, and everyone lik
 **Sweet Dish** - Coconut Barfi (Prepared by Arpita, Mahesh Bhat, Prasanth)
 
 MISA is committed to promotion of such events and practices. In the future, we hope to be part of more such events.
-
-_This article is published by [Tushar Rai](https://www.linkedin.com/in/tushar-rai-38867788/)_
