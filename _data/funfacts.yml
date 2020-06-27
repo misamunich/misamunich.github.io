@@ -1,12 +1,13 @@
-- counter: 200
-  icon: ion-ios-chatboxes-outline
-  text: Queries Resolved
-- counter: 15
-  icon: ion-ios-glasses-outline
-  text: Q/A Sessions
-- counter: 12
+
+#- counter: 200
+#  icon: ion-ios-chatboxes-outline
+#  text: Queries Resolved
+#- counter: 15
+#  icon: ion-ios-glasses-outline
+#  text: Q/A Sessions
+- counter: 3
   icon: ion-ios-compose-outline
-  text: Lectures Delivered
+  text: Blogs
 - counter: 3
   icon: ion-ios-basketball-outline #ion-ios-timer-outline
   text: Events Organized

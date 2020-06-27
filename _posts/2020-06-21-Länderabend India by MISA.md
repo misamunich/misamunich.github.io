@@ -13,16 +13,43 @@ Sharing food is one of the purest gestures of cordiality towards your fellow bei
 ---
 ## Länderabend event
 
+<section id="testimonial">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        {% if site.data.landerabend.size > 0 %}
+        <div ><!--class="testimonial-carousel"-->
+          <div id="testimonial-slider" class="owl-carousel">
+            {% for im in site.data.landerabend %}
+            <div>
+                <div class="user1">
+                  <img src="{{ im.image }}" alt="Pepole">
+                </div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</section>
+
 With this thought in mind and our primary aim of cultural integration with German culture, we were very excited when we found out about the Länderabend event, organised by TUM International, it was an opportunity to share our culture and food with the students of TUM and residents of Munich. We wanted this to be the best Länderabend and we wanted to give our best, hence preparations started well in advance. This being the first major event for us, we were still learning the ropes of how to function as an association and meeting and coordinating with some really awesome and motivated people, who would later form the MISA team, it was a huge learning experience. From deciding the menu, to budgeting and buying the ingredients each step was a struggle and fun at the same time.
 
+
 After around a week of planning, constant phone calls, stress and lots of rejections, we finalized the menu, places to cook, and arranged the utensils (there was a lot of borrowing and begging involved), we were ready! The actual cooking took around two days and we discovered that we have some professional chefs amongst ourselves, hiding in disguise of students. Special mention to Abhinay and Parul for their immense efforts and supervision for making the Non veg and Veg main course. After 48 hours, we were ready to give Munich a taste of our cuisine, of our culture and to satisfy its hunger.
+
 
 The event was a huge success, more than 200 people were served, and everyone liked it so much that within 25 mins we ran out of cooked rice and people lined up for more than 20 mins to get another serving. It was a great experience watching the happy faces of people from all around the world, talking and bonding over a plate of indian food, which you made for them. It satisfies your soul. It was surreal, to be in a foreign land, to be able to serve so many people the food of your land, and to see them enjoy it. 
 
 ---
 
 ## Menu ##
-
+<br>
+<figure align="center">
+<img src="/img/blog_img/landerabend2.jpg" width="780" height="360" alt="landerabend">
+</figure>
 **Vegetarian Main Course** - Dum Aloo (Prepared by Parul, Harshita, Tushar, Shubankar)<br>
 **Non Vegetarian Main Course** - Butter Chicken Masala (Prepared by Abhinay, Arpit, Sid)<br>
 **Side dish** - Jeera Rice (Prepared by Tushar, Ganesh, Nandan)<br>

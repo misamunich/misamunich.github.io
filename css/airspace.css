@@ -273,7 +273,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	content Start
 --*/
 #testimonial {
-  padding: 100px 0;
+  padding: 25px 0;
 }
 #testimonial .block h2 {
   line-height: 27px;
@@ -319,6 +319,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-bottom: 0px;
   border-radius: 500px;
 }
+
 #testimonial .testimonial-carousel .user p {
   padding-bottom: 0;
   font-size: 12px;

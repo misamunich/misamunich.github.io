@@ -13,7 +13,7 @@ It is very common in Germany, like any other country to do a part time job while
 By now, most of you would have known about [Xing](https://www.xing.com/), a career-oriented social networking site. Even though Xing is not familiar outside Germany, it’s a good place to start with. This platform provides a possibility to meet the potential Employer / peer. Ignoring the structure of your profile (unlike LinkedIn), what could be more interesting is the option to Create Alerts and get notified via email about the openings available currently. I still get at least 2 alerts everyday about the existing working student positions.
 
 <figure align="center">
-<img src="/img/blog_img/de_jobs1.jpg" width="780" height="360" alt="sine_wave">
+<img src="/img/blog_img/de_jobs1.jpg" width="780" height="360" alt="Search">
 <figcaption align="center" style="font-size:15px" ><em> Creating a Search Alert in Xing </em></figcaption>
 </figure>
 
