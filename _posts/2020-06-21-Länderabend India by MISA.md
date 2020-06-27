@@ -10,11 +10,6 @@ Food has always been more than sustenance for us humans. Food is an emotion whic
 
 Sharing food is one of the purest gestures of cordiality towards your fellow beings. It develops trust, it develops an understanding. When you share your food with someone, you also share your culture, the experience of thousands of years of cultural development accumulated on a plate. There are millions and millions of dishes or kinds of food in the world, but each one of them is unique, it is special, because it has a unique thought behind it, it has a unique history. The dish in your plate is not just the work of someone who has cooked it for you, it is the concentrated result of experiments, trials, errors, improvement, over thousands or hundreds of years. Today, Globalization has made the world smaller and sharing easier, maybe discovering that we all possess the same love for Food around the globe will help us in making a peaceful tomorrow, where everyone can coexist.
 
-<figure align="center">
-<img src="/img/blog_img/de_jobs1.jpg" width="780" height="360" alt="sine_wave">
-<figcaption align="center" style="font-size:15px" ><em> Creating a Search Alert in Xing </em></figcaption>
-</figure>
-
 ## Länderabend event
 
 With this thought in mind and our primary aim of cultural integration with German culture, we were very excited when we found out about the Länderabend event, organised by TUM International, it was an opportunity to share our culture and food with the students of TUM and residents of Munich. We wanted this to be the best Länderabend and we wanted to give our best, hence preparations started well in advance. This being the first major event for us, we were still learning the ropes of how to function as an association and meeting and coordinating with some really awesome and motivated people, who would later form the MISA team, it was a huge learning experience. From deciding the menu, to budgeting and buying the ingredients each step was a struggle and fun at the same time.
