@@ -23,7 +23,8 @@ After around a week of planning, constant phone calls, stress and lots of reject
 
 The event was a huge success, more than 200 people were served, and everyone liked it so much that within 25 mins we ran out of cooked rice and people lined up for more than 20 mins to get another serving. It was a great experience watching the happy faces of people from all around the world, talking and bonding over a plate of indian food, which you made for them. It satisfies your soul. It was surreal, to be in a foreign land, to be able to serve so many people the food of your land, and to see them enjoy it. 
 
-**Menu** 
+
+#### Menu #### 
 
 **Vegetarian Main Course** - Dum Aloo (Prepared by Parul, Harshita, Tushar, Shubankar)
 
