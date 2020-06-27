@@ -43,7 +43,7 @@ Please note that your findings should solve the original research objectives of 
 ## Final words!!
 Market research is one of the most important inputs for a business decision. As a marketing professional, I truly believe that market research, if done properly, provide unique value towards solving business challenges efficiently.  
 
-Questions? Anything you would like to add? Need to brainstorm on this topic? Share below in the comments — I’d love to hear them! Feel free to connect with me via **LinkedIn!!
+Questions? Anything you would like to add? Need to brainstorm on this topic? Share below in the comments — I’d love to hear them! Feel free to connect with me via **LinkedIn!!**
 
 
 _This article was originally published by the [author](https://www.linkedin.com/in/nivethithamuthusamy/) as a post on [LinkedIn](https://www.linkedin.com/pulse/after-working-numerous-market-research-projects-ive-learned-atul-ekad/?trackingId=X5RzJ0B6SsW46c0Tl13t%2FQ%3D%3D)_
