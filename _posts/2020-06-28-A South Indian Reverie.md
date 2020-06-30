@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A south Indian reverie"
+title: "A South Indian Reverie"
 author: "Shashank Anand"
 meta: ""
 ---
