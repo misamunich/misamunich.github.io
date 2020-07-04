@@ -28,7 +28,7 @@ permalink: /blog/:title/
 markdown: kramdown
 
 # Google analytics
-ga_tracking_id: "UA-171540517-1"
+ga_tracking_id: "UA-171648367-1"
 
 # Category descriptions (for archive pages)
 descriptions:
