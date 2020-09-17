@@ -12,7 +12,7 @@ Writing application in German language help more. You can use translator if you 
 
 The general sites can be :
 
-1. [Munichmela.de](www.Munichmela.de) 
+1. [Munichmela.de](http://www.munichmela.de/) 
 2. [Studenten-wg](http://www.studenten-wg.de/)
 3. [Mr. Lodge](http://m.mrlodge.com/)
 4. [Wg Gesucht](http://www.wg-gesucht.de/en/)
