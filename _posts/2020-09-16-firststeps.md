@@ -33,8 +33,8 @@ After buying a sim card, you need to activate it. In order to activate the sim c
 Some available plans are -  
  
 1. Aldi [Link](https://www.alditalk.de/basis-prepaid-tarif-sim-karte?wt_mc=de.sea.pla_bra_google.SIM_BR_Shopping.20010021&wt_cc3=kid=3458078_bid=10725468&_pmclid=b_10725468_wp_3916435_k_3458078&gclid=Cj0KCQjw7sz6BRDYARIsAPHzrNJyys2tYU0djFaGIT26U3Akk4Gh5VBzj7KRVW-Su-iJZfzPAqNDEWUaAvGaEALw_wcB)
-2. Edeka [Link 1](https://www.edeka-smart.de/) [Link 2](https://www.edeka.de/services/online-services/mobilfunktarif/edeka-smart.jsp)
-3. Rewe [Link 1](https://www.rewe.de/service/handykarten/)[Link 2](https://www.jamobil.de/)
+2. Edeka [Link 1](https://www.edeka-smart.de/); [Link 2](https://www.edeka.de/services/online-services/mobilfunktarif/edeka-smart.jsp)
+3. Rewe [Link 1](https://www.rewe.de/service/handykarten/); [Link 2](https://www.jamobil.de/)
 4. Penny [Link](https://www.pennymobil.de/)
 
 
