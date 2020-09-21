@@ -207,6 +207,29 @@ font header .navbar-default .navbar-nav li a:hover {
 #intro .section-title p {
   padding-top: 20px;
 }
+
+#introblg {
+  padding: 100px 0;
+}
+#introblg .block h2 {
+  padding-top: 35px;
+  line-height: 27px;
+  margin: 0;
+}
+#introblg .block p {
+  color: #7B7B7B;
+  padding-top: 20px;
+}
+#introblg .block img {
+  padding-left: 40px;
+  
+}
+#introblg .section-title {
+  margin-bottom: 0px;
+}
+#introblg .section-title p {
+  padding-top: 20px;
+}
 /*--
 	service Start
 --*/

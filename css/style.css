@@ -18,11 +18,33 @@
 
 .block {
 /* to modify width of the blog */
- width: 100%;
+ /*width: 100%; */
 
 }
 
+.columnhalf{
 
+  float: left;
+  width: 50%;
+  padding: 5px;
+
+}
+
+.columnthird{
+
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+
+}
+
+.columnfourth{
+
+  float: left;
+  width: 25%;
+  padding: 5px;
+
+}
 
 .post-area {
   text-align: left;
