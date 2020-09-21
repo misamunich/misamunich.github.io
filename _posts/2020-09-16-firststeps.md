@@ -41,7 +41,7 @@ The price of your ticket will depend on where you want to go. Munich is divided 
 </figure>
 </div>
 
-4) Follow the instructions on the screen to buy a ticket based on the Zone you want to travel to. There are different kinds of tickets available for the user such as A single trip ticket, Day ticket, Group day tickets etc. more information can be found [here](https://www.mvv-muenchen.de/en/tickets-and-fares/tickets-daytickets/index.html)  
+4) Follow the instructions on the screen to buy a ticket based on the Zone you want to travel to. There are different kinds of tickets available for the user such as A single trip ticket, Day ticket, Group day tickets etc. more information can be found [here](https://www.mvv-muenchen.de/en/tickets-and-fares/tickets-daytickets/index.html).  
 
 5) If you are confused about the Zone and are in a hurry, you can use the “Journey Planner” option, this will allow you to type the name of the station you want to go to, and will give you various options of the tickets that you can buy to get there.
 
@@ -78,7 +78,7 @@ The price of your ticket will depend on where you want to go. Munich is divided 
 <img src="/img/blog_img/ticket_vend.jpg" width="500" height="400" alt="tickemachine">
 </figure>
 
-8) Before entering the platform , or in the bus, you will find a machine similar to the picture below, put the ticket in the machine from the side indicated on the ticket. This will validate your ticket
+8) Before entering the platform , or in the bus, you will find a machine similar to the picture below, put the ticket in the machine from the side indicated on the ticket. This will validate your ticket.
 
 <figure align="center">
 <img src="/img/blog_img/ticket_val.jpg" width="450" height="400" alt="tickemachine">
