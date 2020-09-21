@@ -222,6 +222,9 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #introblg .block img {
   padding-left: 40px;
+  max-width: 100%;
+  height: auto;
+
   
 }
 #introblg .section-title {
