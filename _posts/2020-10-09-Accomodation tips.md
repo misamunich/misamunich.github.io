@@ -6,8 +6,6 @@ meta: ""
 Linkd: "http://www.linkedin.com/in/aravindha-thiagarajan"
 ---
 
-## Accomodation
-
 A separate blog for accommodation in itself should tell you how important it is, but if it doesn’t sound important to you yet, there’s a saying and urban 
 legend which goes *“getting an admit is quite easy but getting an accommodation is nearly impossible”*. Not to scare you off, but that is/was the reality with finding housing in Munich. The corona situation eased a bit of the supply-demand gap but still, this is something you should start taking it seriously if you don’t want to end up under the flyovers during your winter nights.
 
