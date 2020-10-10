@@ -13,7 +13,6 @@ legend which goes *“getting an admit is quite easy but getting an accommodatio
 
 
 ### General tips:
-
 1. Apply for the studentenwerk dorm using the application on the website of the [studentenwerk](https://www.studentenwerk-muenchen.de/en/student-accommodation/)
 
 2. Attend the accommodation webinar from our school.
@@ -24,13 +23,10 @@ legend which goes *“getting an admit is quite easy but getting an accommodatio
 
 5. Deposit for the place varies somewhere between a month’s rent to 3 month’s rent. (usually)
 
-6. Consistency is the key. Don’t fret! You have a long journey ahead of you. Have a look into these links:
-[https://www.tum.de/en/university-life/accommodations/]
-[https://www.en.uni-muenchen.de/students/exchange/incomings/austausch_engl/living/accommodation/private_market/index.html]
+6. Consistency is the key. Don’t fret! You have a long journey ahead of you. Have a look into these links from [TUM](https://www.tum.de/en/university-life/accommodations/) and [LMU](https://www.en.uni-muenchen.de/students/exchange/incomings/austausch_engl/living/accommodation/private_market/index.html)
 
 
 #### Do’s
-
 1. Start early to find your potential home. For Munich, it is never too early to start your accommodation search.
 
 2. Read the listing carefully or at least skim through it thoroughly. Some listings in wg-gesucht will require you to answer a question or type in a keyword at the start of your message to filter out the many (often stupid copy-paste) enquiries which the landlord gets.
@@ -55,7 +51,6 @@ legend which goes *“getting an admit is quite easy but getting an accommodatio
 
 
 #### Don’t’s
-
 1. Don’t wait for the right moment or time. If you see a listing, send your enquiry RIGHT AWAY!
 
 2. Never transfer amount without a viewing or video calling.
@@ -66,7 +61,6 @@ legend which goes *“getting an admit is quite easy but getting an accommodatio
 
 
 #### Other general tips:
-
 1. Yes, a landlord can say no to you without any reasons asked. He/she/they have the right to it and it's legally okay for them to say so too.
 
 2. Yes, the landlord can say no to you and still post the ad once again without any change. Don’t fret again. Think of it as their loss.
@@ -79,7 +73,6 @@ legend which goes *“getting an admit is quite easy but getting an accommodatio
 
 
 #### Its most likely to be a fake posting if: (again, most probably; don’t hold me liable :P)
-
 1. They tell you that they have been transferred to a particular place in Europe very recently and that they will send the keys through couriers.
 
 2. They ask you to pay the entire or partial amount of the deposit even before they arrange a viewing appointment.
@@ -92,7 +85,6 @@ legend which goes *“getting an admit is quite easy but getting an accommodatio
 
 
 #### After you move in:
-
 1. Check for potential damages already present and take a picture of it and send it to the landlord as soon as possible.
 
 2. Take a complete picture of the place before you fill it up with your stuff and establish contact with your landlord attaching these pictures. This avoids sudden surprises later on or when moving out.
