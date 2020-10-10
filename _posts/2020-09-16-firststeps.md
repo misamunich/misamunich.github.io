@@ -3,6 +3,7 @@ layout: post
 title: First Steps in Munich
 author: "Tushar Rai"
 meta: ""
+Linkd: "https://www.linkedin.com/in/tushar-rai-38867788/"
 ---
 
 ## 1. Getting a Train Ticket
