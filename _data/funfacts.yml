@@ -5,9 +5,9 @@
 #- counter: 15
 #  icon: ion-ios-glasses-outline
 #  text: Q/A Sessions
-- counter: 4
+- counter: 7
   icon: ion-ios-compose-outline
   text: Blogs
-- counter: 6
+- counter: 4
   icon: ion-ios-basketball-outline #ion-ios-timer-outline
   text: Events Organized
