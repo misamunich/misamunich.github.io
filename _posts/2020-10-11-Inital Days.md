@@ -21,7 +21,7 @@ transportation network throughout the various zones in all the U-Bahn, S-Bahn, t
 express buses and so on. If you don’t think you will be travelling a lot, the basic student ticket
 (a.k.a your identification card) itself should serve the purpose. Also, you have already paid for
 your basic student ticket along with the semester contribution fees, so you don’t need to buy
-the basic semester ticket again! Detailed guide to buy a semester ticket can be found [here](https://www.misa.hsg.fs.tum.de/blog/firststeps/). For rhe meme below--[Source and Credits :)](https://www.instagram.com/tum.heilbronn.memes/).
+the basic semester ticket again! Detailed guide to buy a semester ticket can be found [here](https://www.misa.hsg.fs.tum.de/blog/firststeps/). For the meme below--[Source and Credits :)](https://www.instagram.com/tum.heilbronn.memes/).
 
 <figure align="center">
 <img src="/img/blog_img/meme.png" width="500" height="600" alt="tickemachine">
