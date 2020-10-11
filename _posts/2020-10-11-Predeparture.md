@@ -60,8 +60,8 @@ General expenses to look forward to in the first month before unblocking the blo
 - Essentials - 50 Euros
 - Other misc. - 50 Euros
 
-For people from India, IndusInd was the better option w.r.t Forexcards and
-Bookmyforex was the better one for cash. Although things might have changed, I would
-personally recommend caution with IndusInd forex card and apply for it as soon as
-possible
+For people from India, IndusInd was the better option w.r.t Forexcards and Bookmyforex was the better one for cash. Although things might have changed, I would personally recommend caution with IndusInd forex card and apply for it as soon as
+possible.
+
+Here is a list of things you should/can bring with yourself to germany: [Pre-Departure Checklist](/resource_documents/Packinglist.pdf). 
 See you in the next blog!
