@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Initial days in Germany
+title: Initial days of your German life
 author: "Aravindha Thiagarajan"
 meta: ""
 Linkd: "http://www.linkedin.com/in/aravindha-thiagarajan"
 ---
-
-# Initial days of your German life!
 
 You have touch downed in Munich. You think, “No what?”. If so, this blog will provide you with all the
 necessary information for the initial days and will give you a head start to your life here in Germany. I
