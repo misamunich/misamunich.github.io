@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pre-departure
+title: Everything you need to now before departing India
 author: "Aravindha Thiagarajan"
 meta: ""
 Linkd: "http://www.linkedin.com/in/aravindha-thiagarajan"
@@ -54,4 +54,9 @@ For people from India, IndusInd was the better option w.r.t Forexcards and Bookm
 possible.
 
 Here is a list of things you should/can bring with yourself to germany: [Pre-Departure Checklist](/resource_documents/Packinglist.pdf). 
+
 See you in the next blog!
+
+<figure align="center">
+<img src="/img/blog_img/Thats_all_folks.png" width="500" height="600" alt="endofdoc">
+</figure>

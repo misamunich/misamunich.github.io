@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Initial days of your German life
+title: Everything you need to know after arriving in Munich
 author: "Aravindha Thiagarajan"
 meta: ""
 Linkd: "http://www.linkedin.com/in/aravindha-thiagarajan"
@@ -60,7 +60,9 @@ The triad of the supermarket chains - Aldi, Edeka, Lidl and also Penny and Rewe 
 offerings. Some useful links:
 
 a) Alditalk - [Click here for details](https://www.alditalk.de/)
+
 b) Winsim - [Click here for details](https://www.winsim.de/)
+
 c) Edeka - [Click here for details](https://www.edeka.de/services/online-services/mobilfunktarif/edeka-smart.jsp)
 
 ### 4. Bank account
@@ -81,22 +83,30 @@ till the age of 25.
 
 For opening your account, usually, you might need the following:
 
->- a) Your passport
->- b) Your visa/residence permit
->- c) Maybe also your city registration 
+- a) Your passport
 
-(*If you don’t have this and that’s the reason why you
+- b) Your visa/residence permit
+
+- c) Maybe also your city registration (*If you don’t have this and that’s the reason why you
 can’t open an account, please contact me, I had the same problem and I know a solution)*
 
-**Check the following w.r.t your account (non-exhaustive list)**
 
->- a) If the transactions by SEPA-direct debit is free.
->- b) If they provide you with a free debit/ATM card and a credit card.
->- c) If there are any charges for online banking.
->- d) If there are monthly charges for maintaining an account.
->- e) If the ATM transactions are free with the home network/partner network banks.
->- f) If they have a minimum monthly incoming amount for maintaining the account.
->- h) Availability of the branch/ATM.
+#### Check the following w.r.t your account (non-exhaustive list)
+
+- a) If the transactions by SEPA-direct debit is free.
+
+- b) If they provide you with a free debit/ATM card and a credit card.
+
+- c) If there are any charges for online banking.
+
+- d) If there are monthly charges for maintaining an account.
+
+- e) If the ATM transactions are free with the home network/partner network banks.
+
+- f) If they have a minimum monthly incoming amount for maintaining the account.
+
+- h) Availability of the branch/ATM.
+
 
 ### 5. Stores
 
@@ -110,17 +120,26 @@ for the good. Even in Edeka, you will find reasonably priced goods called “ gu
 the best price for that particular quality, these categories are sometimes even lower than the prices
 offered by Lidl and Aldi. So, it’s all about your perception.
 
-**Good to know tips:**
+<figure align="center">
+<img src="/img/blog_img/Shopslogo.png" width="500" height="200" alt="logo">
+</figure>
 
->- a) Carry a bag for your groceries. Otherwise, you will find carry bags for some cost near the
+
+#### Good to know tips:
+
+- a) Carry a bag for your groceries. Otherwise, you will find carry bags for some cost near the
 billing counter.
->- b) Usually, it is better to go with a trolley/cart because of the quickness and the speed with
+
+- b) Usually, it is better to go with a trolley/cart because of the quickness and the speed with
 which they bill your goods, you need to manage that speed and it is easier with a trolley
 rather than directly stuffing them into a bag. These trolleys require 1 EUR/ 50 cent coins.
->- c) For some bottles, there would be a caution deposit called Pfand or Pfandflasche which you
+
+- c) For some bottles, there would be a caution deposit called Pfand or Pfandflasche which you
 would get back in the form of a coupon upon depositing the bottle into the machine.
->- d) Stores are closed during Sundays and public holidays and usually, the timings are 7-7.30 am
+
+- d) Stores are closed during Sundays and public holidays and usually, the timings are 7-7.30 am
 till 8 pm during the other days.
+
 
 
 
@@ -128,13 +147,19 @@ till 8 pm during the other days.
 
 _Germany has a lot of bureaucratic processes. So, don’t fret and try tackling things one at a time._
 _Some of these processes which you might need to complete are-_
->- a) Anmeldung/city registration
->- b) Health insurance activation
->- c) Residence permit
->- d) Getting your tax ID
->- e) Getting around the radio tax /ARD tax
 
-### 7. Some general rules and final words**
+- a) Anmeldung/city registration
+
+- b) Health insurance activation
+
+- c) Residence permit
+
+- d) Getting your tax ID
+
+- e) Getting around the radio tax /ARD tax
+
+
+### 7. Some general rules and final words
 
 1) It is illegal to film/take a pic of a German without their consent. Please don’t without their permission. If not, you will be facing civil liabilities and fines.
 
@@ -163,6 +188,13 @@ I have provided these based on what I feel is important. Last but not the least,
 have fun responsibly. Once again, a warm welcome aboard and congratulation on your admits!
 
 Wishing you the best!!
+
+See you in the next blog!
+
+<figure align="center">
+<img src="/img/blog_img/Thats_all_folks.png" width="500" height="600" alt="endofdoc">
+</figure>
+
 
 
 
