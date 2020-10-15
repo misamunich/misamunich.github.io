@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Everything you need to know about accommodation in Munich
+title: Part 3: Everything you need to know about accommodation in Munich
 author: "Aravindha Thiagarajan"
 meta: ""
 Linkd: "http://www.linkedin.com/in/aravindha-thiagarajan"
@@ -11,9 +11,9 @@ A separate blog for accommodation in itself should tell you how important it is,
 
 ### General tips:
 
-- 1) Apply for the studentenwerk dorm using the application on the website of the [studentenwerk](https://www.studentenwerk-muenchen.de/en/student-accommodation/).
+- 1) Apply for the studentenwerk dorm using the application. More details can be found on the website of the [studentenwerk](https://www.studentenwerk-muenchen.de/en/student-accommodation/).
 
-- 2) Attend the accommodation webinar from our school.
+- 2) Attend the accommodation webinar from our University. 
 
 - 3) Don’t restrict the area/distance of your search. But don’t go to a nearby town like Ingolstadt or something (if you can and want, well and good). Travel time of up to 1.30 hrs is acceptable I guess.
 
@@ -21,7 +21,7 @@ A separate blog for accommodation in itself should tell you how important it is,
 
 - 5) Deposit for the place varies somewhere between a month’s rent to 3 month’s rent. (usually)
 
-- 6) Consistency is the key. Don’t fret! You have a long journey ahead of you. Have a look into these links from [TUM](https://www.tum.de/en/university-life/accommodations/) and [LMU](https://www.en.uni-muenchen.de/students/exchange/incomings/austausch_engl/living/accommodation/private_market/index.html)
+- 6) Consistency is the key. Don’t fret! You have a long journey ahead of you. Have a look into these links provided by [TUM](https://www.tum.de/en/university-life/accommodations/) and [LMU](https://www.en.uni-muenchen.de/students/exchange/incomings/austausch_engl/living/accommodation/private_market/index.html)
 
 
 
@@ -35,7 +35,7 @@ A separate blog for accommodation in itself should tell you how important it is,
 
 - 4) Always read what is included and not included in the rent. The warm rent is what you pay in total which is the cold rent + expenses/taxes.
 
-- 5) Always ask for city registration and if the landlord will provide the document for it. (document name: **wohnungsgeberbestätigung**)
+- 5) Always ask for city registration and if the landlord will provide the document for it. (document name: "Wohnungsgeberbestätigung")
 
 - 6) Always ask for visits in your enquiry. Ask a local friend to visit the place in person by fixing an appointment with the landlord/agent and compare the pics posted with that from your friend’s.
 
@@ -50,7 +50,7 @@ A separate blog for accommodation in itself should tell you how important it is,
 - 11) If the listing is in German and you translated it with a translator, always reply using German at the top and maybe English at the bottom of your enquiry. Basically, stick to the language of the listing if possible.
 
 
-### Don’t(s)
+### Don’ts
 
 - 1) Don’t wait for the right moment or time. If you see a listing, send your enquiry RIGHT AWAY!
 
@@ -69,9 +69,9 @@ A separate blog for accommodation in itself should tell you how important it is,
 
 - 3) Yes, a potential landlord may even promise you the place only to later decline it. Until you sign a contract, you can do nothing about it. Often happened to me, but life goes on...
 
-- 4) A contract doesn’t legally require to be in a written form. Although, the written form is easier for you to prove it in cases if need be. (Thank the person who included “Business law” into our syllabus!) 
+- 4) A contract doesn’t legally require to be in a written form. Although, the written form is easier for you to prove it in cases if need be. (Thank the person who included “Business law” into my syllabus!) 
 
-- 5) Always ask for a city registration. The landlord is obliged to provide it as long as it is not for a very short duration of stay. If he/she/they aren’t providing the document (*“wohnungsgeberbestätigung”*) the listing itself is not allowed in most cases.
+- 5) Always ask for a city registration. The landlord is obliged to provide it as long as it is not for a very short duration of stay. If he/she/they aren’t providing the document (“Wohnungsgeberbestätigung”) the listing itself is not allowed in most cases.
 
 
 ### Its most likely to be a fake posting if: (again, most probably; don’t hold me liable :P)
@@ -102,7 +102,7 @@ A separate blog for accommodation in itself should tell you how important it is,
 
 I have provided what I feel as important and what I experienced while finding a place here in Munich. It is not that all landlords are bad and shady and that all tenants are nice. It can always be the other way round too. Appease the concerns of your potential landlord (hey, it’s their blood and sweat too) and most probably you might be able to convince them that you are the right person for the place. 
 
-Good luck with your search!. See you in the next blog.
+Good luck with your search!. See you in the next blog. Aravindha.
 
 <figure align="center">
 <img src="/img/blog_img/Thats_all_folks.png" width="500" height="600" alt="endofdoc">
