@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Everything you need to now before departing India
+title: Everything you need to know before departing India
 author: "Aravindha Thiagarajan"
 meta: ""
 Linkd: "http://www.linkedin.com/in/aravindha-thiagarajan"
@@ -8,7 +8,15 @@ Linkd: "http://www.linkedin.com/in/aravindha-thiagarajan"
 
 Wondering what to do after getting your dream admit? Overwhelmed with all the herculean number of tasks you need to do before getting on the plane to Germany? Then you have come to the right place. What this blog series will attempt is to provide you an idea, touching all the essentials covering major topics from packing list to accommodation to surviving your initial days in Germany, specifically Munich. But, before that, some disclaimers!
 
-I have decided to pen down my experiences during this past 12 months of what I would call it as an extraordinary and fun-filled roller-coaster journey, which would serve as a survival kit at the best, during your testing times. There might be frequent touches of sarcasm (which you would now :P).All these are based on my own experiences and not everything would be relevant for you. Take what you might feel relevant with a pinch of salt and leave the rest. Made for students from other countries too and not just India although the Indian perspective stands out.
+- I have decided to pen down my experiences during this past 12 months of what I would call it as an extraordinary and fun-filled roller-coaster journey, which would serve as a survival kit at the best, during your testing times. 
+
+- There might be frequent touches of sarcasm (which you would know :P).
+
+- All these are based on my own experiences and not everything would be relevant for you. Take what you might feel relevant with a pinch of salt and leave the rest. 
+
+- Made for students from other countries too and not just India although the Indian perspective stands out.
+
+- You might find these often next to content. These are **Refer to Webiste**- kindly check the official website for relevant information; **Recommended**- personal recommendation.
 
 
 In this first blog, let’s get to know all that you need to do right after getting your admit. Without further and self-flattery, let’s get right into it.
