@@ -110,6 +110,10 @@ can’t open an account, please contact me, I had the same problem and I know a 
 
 ### 5. Stores
 
+<figure align="center">
+<img src="/img/blog_img/Shopslogo.png" width="500" height="200" alt="logo">
+</figure>
+
 These are the names and symbols which you would be regularly seeing every day if your German
 life. So, it’s good to know a little about them. Shopping being really obvious, I will just point out the
 differences between the major supermarket chains and give you some tips. Lidl, Netto and Aldi are
@@ -120,9 +124,6 @@ for the good. Even in Edeka, you will find reasonably priced goods called “ gu
 the best price for that particular quality, these categories are sometimes even lower than the prices
 offered by Lidl and Aldi. So, it’s all about your perception.
 
-<figure align="center">
-<img src="/img/blog_img/Shopslogo.png" width="500" height="200" alt="logo">
-</figure>
 
 
 #### Good to know tips:
@@ -188,8 +189,6 @@ I have provided these based on what I feel is important. Last but not the least,
 have fun responsibly. Once again, a warm welcome aboard and congratulation on your admits!
 
 Wishing you the best!!
-
-See you in the next blog!
 
 <figure align="center">
 <img src="/img/blog_img/Thats_all_folks.png" width="500" height="600" alt="endofdoc">

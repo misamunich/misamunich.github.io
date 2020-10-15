@@ -102,7 +102,7 @@ A separate blog for accommodation in itself should tell you how important it is,
 
 I have provided what I feel as important and what I experienced while finding a place here in Munich. It is not that all landlords are bad and shady and that all tenants are nice. It can always be the other way round too. Appease the concerns of your potential landlord (hey, it’s their blood and sweat too) and most probably you might be able to convince them that you are the right person for the place. 
 
-Good luck with your search!.
+Good luck with your search!. See you in the next blog.
 
 <figure align="center">
 <img src="/img/blog_img/Thats_all_folks.png" width="500" height="600" alt="endofdoc">
