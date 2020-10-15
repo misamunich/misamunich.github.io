@@ -1,15 +1,12 @@
 ---
 layout: post
-title: Everything you need to know after arriving in Munich
+title: Part 4: Everything you need to know after arriving in Munich
 author: "Aravindha Thiagarajan"
 meta: ""
 Linkd: "http://www.linkedin.com/in/aravindha-thiagarajan"
 ---
 
-You have touch downed in Munich. You think, “No what?”. If so, this blog will provide you with all the
-necessary information for the initial days and will give you a head start to your life here in Germany. I
-will be careful not to be a spoilsport as some are best suited for you to explore and experience
-personally.
+You have touch downed in Munich. You think, “No what?”. If so, this blog will provide you with all the necessary information for the initial days and will give you a head start to your life here in Germany. I will be careful not to be a spoilsport as some are best suited for you to explore and experience personally.
 
 ### 1. Semester ticket
 
@@ -21,16 +18,15 @@ transportation network throughout the various zones in all the U-Bahn, S-Bahn, t
 express buses and so on. If you don’t think you will be travelling a lot, the basic student ticket
 (a.k.a your identification card) itself should serve the purpose. Also, you have already paid for
 your basic student ticket along with the semester contribution fees, so you don’t need to buy
-the basic semester ticket again! Detailed guide to buy a semester ticket can be found [here](https://www.misa.hsg.fs.tum.de/blog/firststeps/). For the meme below--[Source and Credits :)](https://www.instagram.com/tum.heilbronn.memes/).
+the basic semester ticket again! Detailed guide to buy a semester ticket can be found [here](https://www.misa.hsg.fs.tum.de/blog/firststeps/). 
 
 <figure align="center">
 <img src="/img/blog_img/meme.png" width="500" height="600" alt="tickemachine">
 </figure>
 
+Meme [Source and Credits](https://www.instagram.com/tum.heilbronn.memes/).
 
-
-
-### Things to keep in mind
+#### Things to keep in mind
 
 1) For ISAR ticket- non-transferable, no validation of the ticket is necessary, your
 registration number will be printed on the ticket. Carry your identity card (a.k.a basic
@@ -39,10 +35,13 @@ student ticket) always while using this ISAR ticket, without which you are liabl
 2)For basic student ticket - your identity card is the ticket, travel time-limited from 6 pm -
 6 am and no restrictions on weekends. Please refer this **[link](https://www.tum.de/en/studies/semester-ticket/)** for further information.
 
-3) Student card/identification card/identity card- Rather than me explaining it, our university has put up this awesome piece of information which should serve you with all the queries you have with the identity card. The link can be found **[here](https://www.tum.de/en/studies/application/student-card/)**.
+
+### 2. Student card/identification card/identity card
+
+Rather than me explaining it, our university has put up this awesome piece of information which should serve you with all the queries you have with the identity card. The link can be found **[here](https://www.tum.de/en/studies/application/student-card/)**.
+
 
 ### 3. SIM card
-
 
 One of your most trustworthy friends you will ever have in Munich is going to be your mobile
 internet and sim card. They are also essential for the various forms which you will be filling
@@ -60,13 +59,11 @@ The triad of the supermarket chains - Aldi, Edeka, Lidl and also Penny and Rewe 
 offerings. Some useful links:
 
 a) Alditalk - [Click here for details](https://www.alditalk.de/)
-
 b) Winsim - [Click here for details](https://www.winsim.de/)
-
 c) Edeka - [Click here for details](https://www.edeka.de/services/online-services/mobilfunktarif/edeka-smart.jsp)
 
-### 4. Bank account
 
+### 4. Bank account
 
 Opening an account with a (European) bank is paramount for unblocking your blocked account.
 Also, it is one of the essential things required for activating your health insurance. As soon as
@@ -84,9 +81,7 @@ till the age of 25.
 For opening your account, usually, you might need the following:
 
 - a) Your passport
-
 - b) Your visa/residence permit
-
 - c) Maybe also your city registration (*If you don’t have this and that’s the reason why you
 can’t open an account, please contact me, I had the same problem and I know a solution)*
 
@@ -94,17 +89,11 @@ can’t open an account, please contact me, I had the same problem and I know a 
 #### Check the following w.r.t your account (non-exhaustive list)
 
 - a) If the transactions by SEPA-direct debit is free.
-
 - b) If they provide you with a free debit/ATM card and a credit card.
-
 - c) If there are any charges for online banking.
-
 - d) If there are monthly charges for maintaining an account.
-
 - e) If the ATM transactions are free with the home network/partner network banks.
-
 - f) If they have a minimum monthly incoming amount for maintaining the account.
-
 - h) Availability of the branch/ATM.
 
 
@@ -124,8 +113,6 @@ for the good. Even in Edeka, you will find reasonably priced goods called “ gu
 the best price for that particular quality, these categories are sometimes even lower than the prices
 offered by Lidl and Aldi. So, it’s all about your perception.
 
-
-
 #### Good to know tips:
 
 - a) Carry a bag for your groceries. Otherwise, you will find carry bags for some cost near the
@@ -142,21 +129,15 @@ would get back in the form of a coupon upon depositing the bottle into the machi
 till 8 pm during the other days.
 
 
-
-
 ### 6. Further steps after your initial days
 
 _Germany has a lot of bureaucratic processes. So, don’t fret and try tackling things one at a time._
 _Some of these processes which you might need to complete are-_
 
 - a) Anmeldung/city registration
-
 - b) Health insurance activation
-
 - c) Residence permit
-
 - d) Getting your tax ID
-
 - e) Getting around the radio tax /ARD tax
 
 
@@ -188,7 +169,7 @@ places to hike/explore/see/experience.
 I have provided these based on what I feel is important. Last but not the least, enjoy your time here and
 have fun responsibly. Once again, a warm welcome aboard and congratulation on your admits!
 
-Wishing you the best!!
+Wishing you the best!! Aravindha.
 
 <figure align="center">
 <img src="/img/blog_img/Thats_all_folks.png" width="500" height="600" alt="endofdoc">
