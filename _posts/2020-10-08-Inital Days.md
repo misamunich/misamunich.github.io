@@ -80,21 +80,21 @@ till the age of 25.
 
 For opening your account, usually, you might need the following:
 
-- a) Your passport
-- b) Your visa/residence permit
-- c) Maybe also your city registration (*If you don’t have this and that’s the reason why you
-can’t open an account, please contact me, I had the same problem and I know a solution)*
+	a) Your passport
+	b) Your visa/residence permit
+	c) Maybe also your city registration (*If you don’t have this and that’s the reason why you
+	can’t open an account, please contact me, I had the same problem and I know a solution)*
 
 
-#### Check the following w.r.t your account (non-exhaustive list)
+**Check the following w.r.t your account (non-exhaustive list)**
 
-- a) If the transactions by SEPA-direct debit is free.
-- b) If they provide you with a free debit/ATM card and a credit card.
-- c) If there are any charges for online banking.
-- d) If there are monthly charges for maintaining an account.
-- e) If the ATM transactions are free with the home network/partner network banks.
-- f) If they have a minimum monthly incoming amount for maintaining the account.
-- h) Availability of the branch/ATM.
+	a) If the transactions by SEPA-direct debit is free.
+	b) If they provide you with a free debit/ATM card and a credit card.
+	c) If there are any charges for online banking.
+	d) If there are monthly charges for maintaining an account.
+	e) If the ATM transactions are free with the home network/partner network banks.
+	f) If they have a minimum monthly incoming amount for maintaining the account.
+	h) Availability of the branch/ATM.
 
 
 ### 5. Stores
@@ -134,11 +134,11 @@ till 8 pm during the other days.
 _Germany has a lot of bureaucratic processes. So, don’t fret and try tackling things one at a time._
 _Some of these processes which you might need to complete are-_
 
-- a) Anmeldung/city registration
-- b) Health insurance activation
-- c) Residence permit
-- d) Getting your tax ID
-- e) Getting around the radio tax /ARD tax
+	a) Anmeldung/city registration
+	b) Health insurance activation
+	c) Residence permit
+	d) Getting your tax ID
+	e) Getting around the radio tax /ARD tax
 
 
 ### 7. Some general rules and final words

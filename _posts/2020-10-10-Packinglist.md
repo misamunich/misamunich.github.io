@@ -104,7 +104,8 @@ The strategy is to bring it for the initial few days until you get to know how t
        14. Papad
        15. Mustard seeds, fenugreek seeds, etc.
        16. Cloves/ cinnamon, etc.
-    _Others which you might feel as important for making your food, kindly bring it._
+
+_Others which you might feel as important for making your food, kindly bring it._
 
 **5. Cosmetics/equivalent**
 Almost most of them are available in the triad of the local supermarkets Aldi/Edeka/Lidl and also at DM and it’s relatively cheaper too.

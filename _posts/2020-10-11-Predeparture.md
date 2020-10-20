@@ -47,16 +47,15 @@ If you have 3 pieces of baggage (read Air India) or don’t want to drag them wi
 
 General expenses to look forward to in the first month before unblocking the blocked account: (all prices in EUR, approximated and highly personal)
 
-- Deposit for accommodation 3*monthly amount payable at the start
-- Rent for the first month - 1*monthly amount payable at the star
-
-- Groceries - 100 Euros
-- Initial ticketing costs - 20 Euros
-- ISAR ticket - 200 Euros
-- For SIM cards - 15  Euros(debatable)
-- For winter clothing - 100 Euros (highly personal & debatable)
-- Essentials - 50 Euros
-- Other misc. - 50 Euros
+	- Deposit for accommodation 3*monthly amount payable at the start
+	- Rent for the first month - 1*monthly amount payable at the star
+	- Groceries - 100 Euros
+	- Initial ticketing costs - 20 Euros
+	- ISAR ticket - 200 Euros
+	- For SIM cards - 15  Euros(debatable)
+	- For winter clothing - 100 Euros (highly personal & debatable)
+	- Essentials - 50 Euros
+	- Other misc. - 50 Euros
 
 For people from India, IndusInd was the better option w.r.t Forexcards and Bookmyforex was the better one for cash. Although things might have changed, I would personally recommend caution with IndusInd forex card and apply for it as soon as possible.
 
