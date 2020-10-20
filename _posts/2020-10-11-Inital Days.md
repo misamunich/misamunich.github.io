@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Part 4: Everything you need to know after arriving in Munich
+title: "Part 4: Everything you need to know after arriving in Munich"
 author: "Aravindha Thiagarajan"
 meta: ""
 Linkd: "http://www.linkedin.com/in/aravindha-thiagarajan"

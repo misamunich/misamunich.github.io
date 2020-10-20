@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Part 1: Everything you need to know before departing India
+title: "Part 1: Everything you need to know before departing India"
 author: "Aravindha Thiagarajan"
 meta: ""
 Linkd: "http://www.linkedin.com/in/aravindha-thiagarajan"
