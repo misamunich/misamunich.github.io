@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Part 3: Everything you need to know about accommodation in Munich
+title: "Part 3: Everything you need to know about accommodation in Munich"
 author: "Aravindha Thiagarajan"
 meta: ""
 Linkd: "http://www.linkedin.com/in/aravindha-thiagarajan"
