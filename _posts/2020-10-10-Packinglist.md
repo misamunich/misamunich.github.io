@@ -6,8 +6,6 @@ meta: ""
 Linkd: "http://www.linkedin.com/in/aravindha-thiagarajan"
 ---
 
-# Packing list
-
 If you are still sticking around after the last article - many thanks! (you made us all teary lol). This is going to be a long article, so I will cut to the point straight. Whether you like to spend endless hours trying to find that right product or you hate the very idea of shopping, this time around, there is no escape. It is because it is one of the most essential tasks before you jump on that plane to Germany. This section covers most of those which I feel important personally and will contain insights from an Indian point of view. (People from other countries, don’t worry, I got you covered too!)
 
 **1. Clothes:--**
