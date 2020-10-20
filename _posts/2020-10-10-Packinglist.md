@@ -105,7 +105,7 @@ The strategy is to bring it for the initial few days until you get to know how t
 
 _Others which you might feel as important for making your food, kindly bring it._
 
-**5. Cosmetics/equivalent**
+**5. Cosmetics/equivalent:--**
 Almost most of them are available in the triad of the local supermarkets Aldi/Edeka/Lidl and also at DM and it’s relatively cheaper too.
 
        1. Hair oil/gel/spray
@@ -164,7 +164,8 @@ Get most of your stuff from your home country as it is a definitive bet that it 
 _If you forgot anything or couldn’t accommodate it in the baggage, don’t worry, you get most of_them in the Euro shop._
 
 
-**9. Medicines:--**Before departing, visit your family Dr if you have one or get any those underlying conditions checked. Check your eye power and get a spare of glasses as it is again expensive here and the process is highly different from the home countries. Also, you need a prescription from the doctor to bring those medicines along with you in baggage (rules might differ again). The non-exhaustive list given here:
+**9. Medicines:--** 
+Before departing, visit your family Dr if you have one or get any those underlying conditions checked. Check your eye power and get a spare of glasses as it is again expensive here and the process is highly different from the home countries. Also, you need a prescription from the doctor to bring those medicines along with you in baggage (rules might differ again). The non-exhaustive list given here:
 
        1. Calpol and/or Dolo - basically paracetamol tablets
        2. Band-aids
@@ -196,9 +197,7 @@ _If you forgot anything or couldn’t accommodate it in the baggage, don’t wor
        trying to photocopy something here
 
 
-See you in the next blog!
-
-[Summerizing Sheet](https://drive.google.com/drive/folders/1DB4hieNhL1P-MA8mfuXFZvoD7XGAaI9Q?usp=sharing)
+You will also find the entire list in a checklist-like format under [Summerizing Sheet](https://docs.google.com/spreadsheets/d/1Jtpid-l7mwXp2J8GGl-LX-0jc7zF_ei4maUCvfkYWWc/edit?usp=sharing)
 
 See you in the next blog! Aravindha.
 
