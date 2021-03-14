@@ -26,7 +26,7 @@ the basic semester ticket again! Detailed guide to buy a semester ticket can be 
 
 Meme [Source and Credits](https://www.instagram.com/tum.heilbronn.memes/).
 
-#### Things to keep in mind
+### Things to keep in mind
 
 1) For ISAR ticket- non-transferable, no validation of the ticket is necessary, your
 registration number will be printed on the ticket. Carry your identity card (a.k.a basic
@@ -58,9 +58,9 @@ Alternatively, winsim is also good. Vodafone, I heard offers an unlimited plan a
 The triad of the supermarket chains - Aldi, Edeka, Lidl and also Penny and Rewe has their own
 offerings. Some useful links:
 
-a) Alditalk - [Click here for details](https://www.alditalk.de/)
-b) Winsim - [Click here for details](https://www.winsim.de/)
-c) Edeka - [Click here for details](https://www.edeka.de/services/online-services/mobilfunktarif/edeka-smart.jsp)
+1. Alditalk - [Click here for details](https://www.alditalk.de/)
+2. Winsim - [Click here for details](https://www.winsim.de/)
+3. Edeka - [Click here for details](https://www.edeka.de/services/online-services/mobilfunktarif/edeka-smart.jsp)
 
 
 ### 4. Bank account
@@ -80,21 +80,21 @@ till the age of 25.
 
 For opening your account, usually, you might need the following:
 
-	a) Your passport
-	b) Your visa/residence permit
-	c) Maybe also your city registration (*If you don’t have this and that’s the reason why you
-	can’t open an account, please contact me, I had the same problem and I know a solution)*
+1. Your passport
+2. Your visa/residence permit
+3. Maybe also your city registration (*If you don’t have this and that’s the reason why you
+can’t open an account, please contact me, I had the same problem and I know a solution)*
 
 
 **Check the following w.r.t your account (non-exhaustive list)**
 
-	a) If the transactions by SEPA-direct debit is free.
-	b) If they provide you with a free debit/ATM card and a credit card.
-	c) If there are any charges for online banking.
-	d) If there are monthly charges for maintaining an account.
-	e) If the ATM transactions are free with the home network/partner network banks.
-	f) If they have a minimum monthly incoming amount for maintaining the account.
-	h) Availability of the branch/ATM.
+1. If the transactions by SEPA-direct debit is free.
+2. If they provide you with a free debit/ATM card and a credit card.
+3. If there are any charges for online banking.
+4. If there are monthly charges for maintaining an account.
+5. If the ATM transactions are free with the home network/partner network banks.
+6. If they have a minimum monthly incoming amount for maintaining the account.
+7. Availability of the branch/ATM.
 
 
 ### 5. Stores
@@ -115,17 +115,14 @@ offered by Lidl and Aldi. So, it’s all about your perception.
 
 #### Good to know tips:
 
-- a) Carry a bag for your groceries. Otherwise, you will find carry bags for some cost near the
+1. Carry a bag for your groceries. Otherwise, you will find carry bags for some cost near the
 billing counter.
-
-- b) Usually, it is better to go with a trolley/cart because of the quickness and the speed with
+2. Usually, it is better to go with a trolley/cart because of the quickness and the speed with
 which they bill your goods, you need to manage that speed and it is easier with a trolley
 rather than directly stuffing them into a bag. These trolleys require 1 EUR/ 50 cent coins.
-
-- c) For some bottles, there would be a caution deposit called Pfand or Pfandflasche which you
+3. For some bottles, there would be a caution deposit called Pfand or Pfandflasche which you
 would get back in the form of a coupon upon depositing the bottle into the machine.
-
-- d) Stores are closed during Sundays and public holidays and usually, the timings are 7-7.30 am
+4. Stores are closed during Sundays and public holidays and usually, the timings are 7-7.30 am
 till 8 pm during the other days.
 
 
@@ -134,35 +131,27 @@ till 8 pm during the other days.
 _Germany has a lot of bureaucratic processes. So, don’t fret and try tackling things one at a time._
 _Some of these processes which you might need to complete are-_
 
-	a) Anmeldung/city registration
-	b) Health insurance activation
-	c) Residence permit
-	d) Getting your tax ID
-	e) Getting around the radio tax /ARD tax
+1. Anmeldung/city registration
+2. Health insurance activation
+3. Residence permit
+4. Getting your tax ID
+5. Getting around the radio tax /ARD tax
 
 
 ### 7. Some general rules and final words
 
-1) It is illegal to film/take a pic of a German without their consent. Please don’t without their permission. If not, you will be facing civil liabilities and fines.
-
-2) It is illegal to download with Torrentz or otherwise. Get all those movies/music/etc. from your country itself :P
-
-3) Sundays are absolutely for family time and relaxation here in Germany. No drillers, no mowing, no piano tuning, no construction works on Sundays, thank you very much.Failure could, as you might have guessed, result in liabilities and fines.
-
-4) Don’t try to break the traffic rules here like crossing/jumping the red light, etc. If you are having “the time of your life”, then you might be caught in some good fines. So, always adhere to and respect the rules of the place.
-
-5) Speaking of traffic, while walking, you can and are allowed to use the pathway for walking and have right of the way while doing so. Other traffic has to wait for you.
-
-6) Cycles should not and are not permitted to use the walking pathways except at places
+1. It is illegal to film/take a pic of a German without their consent. Please don’t without their permission. If not, you will be facing civil liabilities and fines.
+2. It is illegal to download with Torrentz or otherwise. Get all those movies/music/etc. from your country itself :P
+3. Sundays are absolutely for family time and relaxation here in Germany. No drillers, no mowing, no piano tuning, no construction works on Sundays, thank you very much.Failure could, as you might have guessed, result in liabilities and fines.
+4. Don’t try to break the traffic rules here like crossing/jumping the red light, etc. If you are having “the time of your life”, then you might be caught in some good fines. So, always adhere to and respect the rules of the place.
+5. Speaking of traffic, while walking, you can and are allowed to use the pathway for walking and have right of the way while doing so. Other traffic has to wait for you.
+6. Cycles should not and are not permitted to use the walking pathways except at places
 where it is a shared pathway.
-
-7)Buses might not stop at every stop unless you press the stop buttons being put in
+7. Buses might not stop at every stop unless you press the stop buttons being put in
 various places inside the bus.
-
-8) Explore the Studentenwerk Munechen webpages. They offer some really good
+8. Explore the Studentenwerk Munechen webpages. They offer some really good
 events/workshops and provide support to a lot of different things.
-
-9) With the covid situation in place, explore responsibly and always follow the local rules
+9. With the covid situation in place, explore responsibly and always follow the local rules
 and regulations. You live just right around the corner from the Alps, so there are a lot of
 places to hike/explore/see/experience.
 
